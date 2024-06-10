@@ -1,0 +1,62 @@
+E:\BNTU\2 курс\РПВС\Lab1Fix\bin\Debug\Lab1Fix.exe.config
+E:\BNTU\2 курс\РПВС\Lab1Fix\bin\Debug\Lab1Fix.exe
+E:\BNTU\2 курс\РПВС\Lab1Fix\bin\Debug\Lab1Fix.pdb
+E:\BNTU\2 курс\РПВС\Lab1Fix\obj\Debug\Lab1Fix.csproj.AssemblyReference.cache
+E:\BNTU\2 курс\РПВС\Lab1Fix\obj\Debug\Lab1Fix.Form1.resources
+E:\BNTU\2 курс\РПВС\Lab1Fix\obj\Debug\Lab1Fix.Properties.Resources.resources
+E:\BNTU\2 курс\РПВС\Lab1Fix\obj\Debug\Lab1Fix.csproj.GenerateResource.cache
+E:\BNTU\2 курс\РПВС\Lab1Fix\obj\Debug\Lab1Fix.csproj.CoreCompileInputs.cache
+E:\BNTU\2 курс\РПВС\Lab1Fix\obj\Debug\Lab1Fix.exe
+E:\BNTU\2 курс\РПВС\Lab1Fix\obj\Debug\Lab1Fix.pdb
+D:\VS проекты\Lab1Fix\bin\Debug\Lab1Fix.exe.config
+D:\VS проекты\Lab1Fix\bin\Debug\Lab1Fix.exe
+D:\VS проекты\Lab1Fix\bin\Debug\Lab1Fix.pdb
+D:\VS проекты\Lab1Fix\obj\Debug\Lab1Fix.csproj.AssemblyReference.cache
+D:\VS проекты\Lab1Fix\obj\Debug\Lab1Fix.csproj.SuggestedBindingRedirects.cache
+D:\VS проекты\Lab1Fix\obj\Debug\Lab1Fix.Form1.resources
+D:\VS проекты\Lab1Fix\obj\Debug\Lab1Fix.Properties.Resources.resources
+D:\VS проекты\Lab1Fix\obj\Debug\Lab1Fix.csproj.GenerateResource.cache
+D:\VS проекты\Lab1Fix\obj\Debug\Lab1Fix.csproj.CoreCompileInputs.cache
+D:\VS проекты\Lab1Fix\obj\Debug\Lab1Fix.exe
+D:\VS проекты\Lab1Fix\obj\Debug\Lab1Fix.pdb
+D:\VS проекты\Lab1Fix2\bin\Debug\Lab1Fix.exe.config
+D:\VS проекты\Lab1Fix2\bin\Debug\Lab1Fix.exe
+D:\VS проекты\Lab1Fix2\bin\Debug\Lab1Fix.pdb
+D:\VS проекты\Lab1Fix2\obj\Debug\Lab1Fix.csproj.AssemblyReference.cache
+D:\VS проекты\Lab1Fix2\obj\Debug\Lab1Fix.csproj.SuggestedBindingRedirects.cache
+D:\VS проекты\Lab1Fix2\obj\Debug\Lab1Fix.Form1.resources
+D:\VS проекты\Lab1Fix2\obj\Debug\Lab1Fix.Properties.Resources.resources
+D:\VS проекты\Lab1Fix2\obj\Debug\Lab1Fix.csproj.GenerateResource.cache
+D:\VS проекты\Lab1Fix2\obj\Debug\Lab1Fix.csproj.CoreCompileInputs.cache
+D:\VS проекты\Lab1Fix2\obj\Debug\Lab1Fix.exe
+D:\VS проекты\Lab1Fix2\obj\Debug\Lab1Fix.pdb
+E:\Lab1Fix2\bin\Debug\Lab1Fix.exe.config
+E:\Lab1Fix2\bin\Debug\Lab1Fix.exe
+E:\Lab1Fix2\bin\Debug\Lab1Fix.pdb
+E:\Lab1Fix2\obj\Debug\Lab1Fix.csproj.AssemblyReference.cache
+E:\Lab1Fix2\obj\Debug\Lab1Fix.Form1.resources
+E:\Lab1Fix2\obj\Debug\Lab1Fix.Properties.Resources.resources
+E:\Lab1Fix2\obj\Debug\Lab1Fix.csproj.GenerateResource.cache
+E:\Lab1Fix2\obj\Debug\Lab1Fix.csproj.CoreCompileInputs.cache
+E:\Lab1Fix2\obj\Debug\Lab1Fix.exe
+E:\Lab1Fix2\obj\Debug\Lab1Fix.pdb
+E:\BNTU\2курс\РПВС\Lab1Fix2\bin\Debug\Lab1Fix.exe.config
+E:\BNTU\2курс\РПВС\Lab1Fix2\bin\Debug\Lab1Fix.exe
+E:\BNTU\2курс\РПВС\Lab1Fix2\bin\Debug\Lab1Fix.pdb
+E:\BNTU\2курс\РПВС\Lab1Fix2\obj\Debug\Lab1Fix.csproj.AssemblyReference.cache
+E:\BNTU\2курс\РПВС\Lab1Fix2\obj\Debug\Lab1Fix.Form1.resources
+E:\BNTU\2курс\РПВС\Lab1Fix2\obj\Debug\Lab1Fix.Properties.Resources.resources
+E:\BNTU\2курс\РПВС\Lab1Fix2\obj\Debug\Lab1Fix.csproj.GenerateResource.cache
+E:\BNTU\2курс\РПВС\Lab1Fix2\obj\Debug\Lab1Fix.csproj.CoreCompileInputs.cache
+E:\BNTU\2курс\РПВС\Lab1Fix2\obj\Debug\Lab1Fix.exe
+E:\BNTU\2курс\РПВС\Lab1Fix2\obj\Debug\Lab1Fix.pdb
+E:\BNTU\2курс\РПВС\Lab5\bin\Debug\Lab1Fix.exe.config
+E:\BNTU\2курс\РПВС\Lab5\bin\Debug\Lab1Fix.exe
+E:\BNTU\2курс\РПВС\Lab5\bin\Debug\Lab1Fix.pdb
+E:\BNTU\2курс\РПВС\Lab5\obj\Debug\Lab1Fix.csproj.AssemblyReference.cache
+E:\BNTU\2курс\РПВС\Lab5\obj\Debug\Lab1Fix.Form1.resources
+E:\BNTU\2курс\РПВС\Lab5\obj\Debug\Lab1Fix.Properties.Resources.resources
+E:\BNTU\2курс\РПВС\Lab5\obj\Debug\Lab1Fix.csproj.GenerateResource.cache
+E:\BNTU\2курс\РПВС\Lab5\obj\Debug\Lab1Fix.csproj.CoreCompileInputs.cache
+E:\BNTU\2курс\РПВС\Lab5\obj\Debug\Lab1Fix.exe
+E:\BNTU\2курс\РПВС\Lab5\obj\Debug\Lab1Fix.pdb
